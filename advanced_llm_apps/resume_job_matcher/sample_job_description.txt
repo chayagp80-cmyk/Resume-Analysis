@@ -1,0 +1,20 @@
+Data Analyst
+
+We are seeking a Data Analyst to support business decisions through analysis, reporting, and dashboarding.
+
+Responsibilities:
+- Analyze large datasets using SQL and Python.
+- Build dashboards and reports for stakeholders.
+- Communicate trends and recommendations clearly.
+- Work with cross-functional teams to define KPIs and measure performance.
+- Support data quality initiatives and process improvement.
+
+Requirements:
+- 3+ years of experience in data analysis or business intelligence.
+- Strong SQL skills and experience with Python.
+- Experience with BI tools such as Power BI or Tableau.
+- Excellent communication and presentation skills.
+
+Preferred:
+- Experience in retail or e-commerce.
+- Knowledge of ETL pipelines and data modeling.

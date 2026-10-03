@@ -1,0 +1,19 @@
+Jane Smith
+Data Analyst | Python | SQL | BI
+
+Experience
+- Senior Analyst, Northwind Retail | 2022-Present
+  - Built Python ETL pipelines to clean and validate sales and inventory data.
+  - Created interactive dashboards in Power BI and Tableau for weekly KPI reporting.
+  - Improved data quality by automating reconciliation checks across 12 data sources.
+
+- Data Analyst, Lakeview Health | 2019-2022
+  - Wrote SQL queries to support reporting and operational analysis.
+  - Partnered with stakeholders to define metrics and build recurring executive dashboards.
+  - Supported A/B testing and customer segmentation analyses in Python.
+
+Skills
+- Python, SQL, Excel, Power BI, Tableau, Data Cleaning, ETL, A/B Testing
+
+Education
+- B.S. in Statistics, University of Michigan
